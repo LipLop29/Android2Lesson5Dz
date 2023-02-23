@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android2Lesson5Dz</string>
+    <string name="gallery">Gallery</string>
+    <string name="order_confirmation">Order confirmation</string>
+    <string name="ok">Ok</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Settings">Настройки</string>
+    <string name="Cancel">Отмена</string>
+    <string name="gallery2">Включите разрешеие Gallery</string>
+</resources>
